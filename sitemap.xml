@@ -1,0 +1,12 @@
+<? xml version = "1.0" encoding = "UTF-8"?>
+<urlset >
+	robot.txt
+	<sitemapindex xmlns ="http://www.sitemaps.org/schemas/sitemap/0.9">
+		< sitemap >
+
+      <loc> http://index.html/sitemap1.xml.gz</loc>
+       <lastmod> 2018-04-22T18: 00: 47 + 00: 00 </lastmod>
+
+   </sitemap>
+	</sitemapindex>
+</urlset>
